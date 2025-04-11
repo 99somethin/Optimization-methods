@@ -1,0 +1,4 @@
+﻿  Optimization Lab 1.cpp
+D:\с++\book\Optimization Lab 1\Optimization Lab 1.cpp(20,10): warning C4305: инициализация: усечение из "double" в "float"
+D:\с++\book\Optimization Lab 1\Optimization Lab 1.cpp(24,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Optimization Lab 1.vcxproj -> D:\с++\book\Optimization Lab 1\x64\Debug\Optimization Lab 1.exe

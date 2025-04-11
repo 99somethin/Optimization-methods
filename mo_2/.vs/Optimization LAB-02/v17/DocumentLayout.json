@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0441\u002B\u002B\\book\\Optimization LAB-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81825D45-5516-49C0-AAA8-04AC63FA65DC}|Optimization LAB-02.vcxproj|D:\\\u0441\u002B\u002B\\book\\Optimization LAB-02\\Optimization LAB-02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81825D45-5516-49C0-AAA8-04AC63FA65DC}|Optimization LAB-02.vcxproj|solutionrelative:Optimization LAB-02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Optimization LAB-02.cpp",
+              "DocumentMoniker": "D:\\\u0441\u002B\u002B\\book\\Optimization LAB-02\\Optimization LAB-02.cpp",
+              "RelativeDocumentMoniker": "Optimization LAB-02.cpp",
+              "ToolTip": "D:\\\u0441\u002B\u002B\\book\\Optimization LAB-02\\Optimization LAB-02.cpp",
+              "RelativeToolTip": "Optimization LAB-02.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T05:46:00.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

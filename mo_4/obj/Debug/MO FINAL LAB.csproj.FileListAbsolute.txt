@@ -1,0 +1,7 @@
+D:\с++\book\MO FINAL LAB\bin\Debug\MO FINAL LAB.exe.config
+D:\с++\book\MO FINAL LAB\bin\Debug\MO FINAL LAB.exe
+D:\с++\book\MO FINAL LAB\bin\Debug\MO FINAL LAB.pdb
+D:\с++\book\MO FINAL LAB\obj\Debug\MO FINAL LAB.csproj.AssemblyReference.cache
+D:\с++\book\MO FINAL LAB\obj\Debug\MO FINAL LAB.csproj.CoreCompileInputs.cache
+D:\с++\book\MO FINAL LAB\obj\Debug\MO FINAL LAB.exe
+D:\с++\book\MO FINAL LAB\obj\Debug\MO FINAL LAB.pdb
